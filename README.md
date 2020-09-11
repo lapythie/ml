@@ -1,1 +1,1 @@
-# ml
+# HSE Machine Learning course homework
